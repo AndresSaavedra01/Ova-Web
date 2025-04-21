@@ -3,6 +3,7 @@
  para probar:
 
  en main.c cambia los valores de:
+
   const char* rutaKey = "ruta de la llavae de la maquina aws";
   const char* rutaDirectorio = "directorio de la maquina aws donde se va ejecutar los comandos";
   const char* ipAWS = "ip publica de la maquina";
