@@ -1,8 +1,8 @@
- Programa para ejecutar comandos en un maquina de AWS remotamente
+ ### Programa para ejecutar comandos en un maquina de AWS remotamente
 
- para probar:
+ ## para probar:
 
- en main.c cambia los valores de:
+ ## en main.c cambia los valores de:
 
   const char* rutaKey = "ruta de la llavae de la maquina aws";
 
@@ -10,7 +10,7 @@
 
   const char* ipAWS = "ip publica de la maquina";
 
- ejecuta en consola:
+ ## ejecuta en consola:
 
  gcc main.c validaciones.s  -o ejecutable
 
