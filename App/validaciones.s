@@ -1,6 +1,7 @@
 .global validar_comando
 .section .text
 
+
 validar_comando:
     push %rbp
     mov %rsp, %rbp
